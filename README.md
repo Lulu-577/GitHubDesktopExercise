@@ -1,2 +1,2 @@
-# springboardprework
-springboard prework project
+# GitHubDesktopExercise
+github desktop exercise
